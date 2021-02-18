@@ -97,9 +97,27 @@ google TDEE（Total Daily Energy Expenditure\) ， 超多网站提供查询基�
 
 * 3 to 5 g/kg/day \(1.3 to 2.2 g/lbs/day\) for general population and athletes who partake in low-volume training or mostly skill-based training
 
-所以 193lb \(87kg\) 需要 191克蛋白质。 
+所以 193lb \(87kg\) 需要 191克蛋白质。 191克蛋白质等于800（191\*4）卡路里
 
-**Acceptable Macronutrient Distribution Ranges \(AMDRs\)**, which state the recommended percent of calories that adults should obtain from carbohydrates \(45 to 65%\), fat \(20 to 35%\), and protein \(10 to 35%\) 
+脂肪推荐: 脂肪占20%~35%总卡路里。所以2000卡中有400~700卡是脂肪。 1克脂肪9卡路里，那么一天脂肪消耗在44g到77克。脂肪最好不要少于20%，会阳痿。脂肪能促进荷尔蒙，所以尽量降低脂肪摄入，但是也要维持一定的摄入量。
+
+所以剩下，500卡到800卡。 等于125g~200g的碳水。 
+
+这样我2000ka 需要的蛋白质，脂肪和碳水就出来了。 
+
+蛋白质： 191g
+
+碳水: 125g~200g
+
+脂肪：44g~77g
+
+
+
+设定食谱
+
+
+
+
 
 
 
