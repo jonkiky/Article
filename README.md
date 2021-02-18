@@ -161,7 +161,17 @@ google TDEE（Total Daily Energy Expenditure\) ， 超多网站提供查询基�
 
 这个是比较大的一个topic，而且因人而异。下面是一些推荐的食物，可以做为参考。
 
+tips：
+
 一般推荐，多吃鸡肉和鱼肉，他们热量少，脂肪含量少。一天内可以和牛肉或者羊肉组合在一起。
+
+Anti-hunger :  虽然我们在创造能量缺口，但是我们也需要尽量不要让自己感觉到很饥饿。如果你的计划让你时常觉得饿，那么你需要将Cal-dense 食物，转变成 low cal 的食物，多吃些深色的素菜，番茄，黄瓜。可以很好的控制你的饥饿感。 或者提高卡路里的摄入量，有可能你的基础代谢是数据偏低导致的问题。
+
+减肥不应该是很痛苦的，如果很痛苦，那么一定是方法错了。痛苦的减肥是不能长久，难以达到效果的。 
+
+吃该吃的，不健康的食物也是可以吃的，只要在规定的饮食规划中即可。如果超标，可以通过健身来降低饮食过量带来的影响。  
+
+
 
 食物推荐：
 
@@ -177,7 +187,7 @@ google TDEE（Total Daily Energy Expenditure\) ， 超多网站提供查询基�
 
 ### 6 记录身体变化，调整计划
 
-推荐一周测体重2~3次，每次尽量在相同的时间点，最好是脱光光测体重。  
+推荐一周测体重2~3次，每次尽量在相同的时间点，最好是脱光光测体重，要以严谨的科学态度对待每一次的体测。
 
 体重器如果可以显示肌肉，脂肪，骨骼含量的，可以不用相信，一般机器是无法提供准确是数值的，甚至很多医院也没有相应的仪器，需要到特定的医院才能测出比较精确的值。但是可以做为参考值，记录含量的上下波动。
 
@@ -201,19 +211,78 @@ google TDEE（Total Daily Energy Expenditure\) ， 超多网站提供查询基�
 
 ### 7 上科技（营养补给）
 
+**蛋白粉**
 
+**买蛋白粉，要看**亮氨酸（Leucine\)含量
+
+出生代表了一切
+
+| **rotein Supplement Type** | **% Leucine Content** |
+| :--- | :--- |
+| Whey | 11% |
+| Casein | 9.3% |
+| Eggs | 8.5% |
+| Soy Isolate | 8% |
+| Peas | 8% |
+| Wheat | 7% |
+| Brown Rice Isolate | 8% |
+
+所以买蛋白质买Whey和Casein，因为他们吸收好。
+
+
+
+Whey and casein are derived from bovine milk, comprising **20% and 80%** respectively of the **protein component of milk.**
+
+Whey protein concentrate is the liquid fraction of milk and is typically about 80% protein with small amounts of carbohydrates, fat, and **lactose**.
+
+Whey protein hydrolysate contains shorter amino acid chains \(peptides\), which are formed by adding enzymes to either whey concentrate or isolate, purportedly enhancing digestion and absorption.
+
+ ****
+
+**绿茶 EGCG， 绿茶里面有EGCG和Caffeine，能帮助减脂**
+
+Green tea extracts, primarily EGCG, in combination with caffeine have been shown to increase metabolism and fat oxidation and to modestly boost weight loss and reduce waist circumference
+
+{% embed url="https://pubmed.ncbi.nlm.nih.gov/10584049/" %}
+
+\*\*\*\*
+
+**咖啡因 ， 咖啡可以帮助减脂。 但是可能会影响睡眠，因人而异。** 
+
+A meta-analysis of six well-designed studies revealed **caffeine-only and caffeine with catechins** from tea significantly increase 24-hour energy expenditure by **4.8 and 4.7%** respectively compared to the placebo.
+
+Adult intake of caffeine up to 400 to 500 milligrams per day appears safe in healthy individuals
+
+\*\*\*\*
 
 
 
 ### 8 运动
 
+运动请参考健身教练的建议。
+
+我的运动规划：
+
+ 
+
+### 9 作弊 （More Tips）
 
 
-### 9 作弊
 
+提高你的基础代谢方法
 
-
-
+| Do additional tasks around the house |
+| :--- |
+| Play with the your kids |
+| Take quick 10-minute walks every 2 hours |
+| Have walking meetings instead of sitting in a conference room |
+| Use a stand-up desk or sit on an exercise ball |
+| Get a pedometer or smartwatch and challenge yourself to add more steps or activity points each day |
+| Pace and fidget more |
+| Take the stairs whenever available |
+| Adopt a more active lifestyle instead of being sedentary in free time |
+| Walk or cycle instead of driving |
+| Use manual tools and utensils instead of powered labor-saving versions |
 
 
 
