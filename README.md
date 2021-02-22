@@ -211,7 +211,7 @@ Anti-hunger :  虽然我们在创造能量缺口，但是我们也需要尽量�
 
 ### 7 上科技（营养补给）
 
-**蛋白粉**
+#### **7.1蛋白粉**
 
 **买蛋白粉，要看**亮氨酸（Leucine\)含量
 
@@ -239,7 +239,7 @@ Whey protein hydrolysate contains shorter amino acid chains \(peptides\), which 
 
  ****
 
-**绿茶 EGCG， 绿茶里面有EGCG和Caffeine，能帮助减脂**
+#### **7.2 绿茶 EGCG， 绿茶里面有EGCG和Caffeine，能帮助减脂**
 
 Green tea extracts, primarily EGCG, in combination with caffeine have been shown to increase metabolism and fat oxidation and to modestly boost weight loss and reduce waist circumference
 
@@ -247,13 +247,13 @@ Green tea extracts, primarily EGCG, in combination with caffeine have been shown
 
 \*\*\*\*
 
-**咖啡因 ， 咖啡可以帮助减脂。 但是可能会影响睡眠，因人而异。** 
+#### **7.3 咖啡因 ， 咖啡可以帮助减脂。 但是可能会影响睡眠，因人而异。** 
 
 A meta-analysis of six well-designed studies revealed **caffeine-only and caffeine with catechins** from tea significantly increase 24-hour energy expenditure by **4.8 and 4.7%** respectively compared to the placebo.
 
 Adult intake of caffeine up to 400 to 500 milligrams per day appears safe in healthy individuals
 
-\*\*\*\*
+#### 7.4 其他的，还是算了别用了，遵循其他教练的推荐吧 
 
 
 
@@ -265,7 +265,7 @@ Adult intake of caffeine up to 400 to 500 milligrams per day appears safe in hea
 
  
 
-### 9 作弊 （More Tips）
+## More Tips
 
 
 
